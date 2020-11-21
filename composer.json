@@ -1,0 +1,24 @@
+{
+    "name": "onlinecheckwiter/ocw-php",
+    "description": "OnlineCheckWriter API PHP wrapper",
+	"keywords": [
+      "online check mailing",
+      "sent physical bank check",
+      "bank check api",
+      "online check writer",
+      "check mailing",
+      "check mailing api"
+  ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Online Check Writer",
+            "email": "support@onlinecheckwriter.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"OnlineCheckWriter\\": "src/"}
+    }
+
+}
